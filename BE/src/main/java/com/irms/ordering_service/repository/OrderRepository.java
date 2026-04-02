@@ -1,6 +1,6 @@
-package com.irms.ordering_service.persistence;
+package com.irms.ordering_service.repository;
 
-import com.irms.ordering_service.database.OrderEntity;
+import com.irms.ordering_service.entity.OrderEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

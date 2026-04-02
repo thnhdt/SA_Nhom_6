@@ -1,7 +1,7 @@
-package com.irms.ordering_service.presentation;
+package com.irms.ordering_service.controller;
 
-import com.irms.ordering_service.persistence.OrderRequestDTO;
-import com.irms.ordering_service.persistence.OrderResponseDTO;
+import com.irms.ordering_service.dto.OrderRequestDTO;
+import com.irms.ordering_service.dto.OrderResponseDTO;
 import com.irms.ordering_service.service.OrderService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;

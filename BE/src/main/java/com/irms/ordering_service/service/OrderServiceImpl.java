@@ -1,9 +1,9 @@
 package com.irms.ordering_service.service;
 
-import com.irms.ordering_service.database.OrderEntity;
-import com.irms.ordering_service.persistence.OrderRepository;
-import com.irms.ordering_service.persistence.OrderRequestDTO;
-import com.irms.ordering_service.persistence.OrderResponseDTO;
+import com.irms.ordering_service.entity.OrderEntity;
+import com.irms.ordering_service.repository.OrderRepository;
+import com.irms.ordering_service.dto.OrderRequestDTO;
+import com.irms.ordering_service.dto.OrderResponseDTO;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
