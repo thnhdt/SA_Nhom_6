@@ -1,4 +1,4 @@
-package com.irms.ordering_service.persistence;
+package com.irms.ordering_service.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

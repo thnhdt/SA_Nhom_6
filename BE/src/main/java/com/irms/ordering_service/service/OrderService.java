@@ -1,7 +1,7 @@
 package com.irms.ordering_service.service;
 
-import com.irms.ordering_service.persistence.OrderRequestDTO;
-import com.irms.ordering_service.persistence.OrderResponseDTO;
+import com.irms.ordering_service.dto.OrderRequestDTO;
+import com.irms.ordering_service.dto.OrderResponseDTO;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.irms.ordering_service.database;
+package com.irms.ordering_service.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
